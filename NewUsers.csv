@@ -1,0 +1,11 @@
+First Name,Last Name,Job Title,Office Phone,Email Address,Description,Organizational Unit
+Mike,Terry,Office Manager,012-345-1232,mike.terry@itflee.com,Ensures excellent physical condition of office,"OU=Office,OU=itFlee,DC=itflee,DC=com"
+Ridley,Quin,Software Engineer,012-345-1233,ridley.quin@itflee.com,Develops software for itflee.com in support of various expansion agendas,"OU=Administrators,OU=itFlee,DC=itflee,DC=com"
+Ripley,Dalton,Network Administrator,012-345-1234,ripley.dalton@itflee.com,Administration and security of office network gear and servers,"OU=Administrators,OU=itFlee,DC=itflee,DC=com"
+Rollo,Braith,Technical Analyst,012-345-1235,rollo.braith@itflee.com,Procures IT software and hardware,"OU=Office,OU=itFlee,DC=itflee,DC=com"
+Stan,Kenzie,Support Specialist,012-345-1236,stan.kenzie@itflee.com,Provides Tier 2 support to itFlee office,"OU=Administrators,OU=itFlee,DC=itflee,DC=com"
+Clyde,Braiden,Data Analyst,012-345-1237,clyde.braiden@itflee.com,Provides suggestions based on student and course analytics,"OU=Office,OU=itFlee,DC=itflee,DC=com"
+Jolyon,Clifton,Web Developer II,012-345-1238,jolyon.clifton@itflee.com,Works on itFlee websites and web apps,"OU=Office,OU=itFlee,DC=itflee,DC=com"
+Kelsey,Mason,Executive Assistant,012-345-1239,kelsey.mason@itflee.com,"Schedules flights, books hotels, car rentals, office parties, etc…","OU=Office,OU=itFlee,DC=itflee,DC=com"
+Conway,Basil,System Administrator I,012-345-1240,conway.basil@itflee.com,Administrates the office servers and VMs,"OU=Administrators,OU=itFlee,DC=itflee,DC=com"
+Earnest,Britton,Support Specialist,012-345-1241,earnest.britton@itflee.com,Provides Tier 1 support to itFlee office,"OU=Administrators,OU=itFlee,DC=itflee,DC=com"
